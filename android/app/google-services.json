@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26402822867",
+    "project_id": "basic-banking-app-f26fb",
+    "storage_bucket": "basic-banking-app-f26fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26402822867:android:8b0818701b37ed4732d226",
+        "android_client_info": {
+          "package_name": "com.example.bankingflutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26402822867-gvd82q0i72omjs71fug3n1d17mr8ovhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWgBR9ZedbElDjEDAwm5XLE6Xkkdwkic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26402822867-gvd82q0i72omjs71fug3n1d17mr8ovhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
